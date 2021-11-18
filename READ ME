@@ -1,6 +1,0 @@
-As Social Leader of my MSc cohort, I wanted to plan a 6 week lunch networking schedule. I could generate random groups each week, but I wanted to minimize repeat meetings
-to maximize the number of distinct people each student meets.
-
-To do this, I created classes for student and lunch group that could keep track of who had met whom thus far.
-
-In the end, I am able to do much better than the purely random strategy.
